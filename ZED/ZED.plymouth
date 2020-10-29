@@ -1,0 +1,10 @@
+[Plymouth Theme]
+Name=ZED
+Description=plymouth
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/ZED
+ScriptFile=/usr/share/plymouth/themes/ZED/ZED.script
+
+
